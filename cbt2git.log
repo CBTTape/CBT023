@@ -1,0 +1,10 @@
+2023-04-02 21:03:47.809540 - Initialized conversion of CBT023
+2023-04-02 21:03:47.863561 - Received CBT.V504.FILE023.PDS from FILE023.XMI 
+2023-04-02 21:03:47.866331 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE023.PDS, moved to PDS/$$$#DATE
+2023-04-02 21:03:47.867569 - Found $$DOC.txt (text/plain) in CBT.V504.FILE023.PDS, moved to PDS/$$DOC
+2023-04-02 21:03:47.868827 - Found @FILE023.txt (text/plain) in CBT.V504.FILE023.PDS, moved to PDS/@FILE023
+2023-04-02 21:03:47.869943 - Found ASMLKED.jcl (text/plain) in CBT.V504.FILE023.PDS, moved to PDS/ASMLKED
+2023-04-02 21:03:47.870899 - Found IEALPAXX.txt (text/plain) in CBT.V504.FILE023.PDS, moved to PDS/IEALPAXX
+2023-04-02 21:03:47.872268 - Found IKJEFLD.txt (text/plain) in CBT.V504.FILE023.PDS, moved to PDS/IKJEFLD
+2023-04-02 21:03:47.873423 - Found SP1MOD.txt (text/plain) in CBT.V504.FILE023.PDS, moved to PDS/SP1MOD
+2023-04-02 21:03:47.874383 - Found SP2MOD.txt (text/plain) in CBT.V504.FILE023.PDS, moved to PDS/SP2MOD
