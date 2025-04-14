@@ -1,7 +1,8 @@
 # CBT023
 Converted to GitHub via [cbt2git](https://github.com/wizardofzos/cbt2git)
 
-This is still a work in progress. GitHub repos will be deleted and created during this period...
+This is still a work in progress. 
+Due to amazing work by Alizon Zhang and Jake Choi repos are no longer deleted.
 
 ```
 //***FILE 023 IS FROM MR SCOTT C DIMOND OF NOVA IN ALBERTA          *   FILE 023
